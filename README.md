@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center">
   <img src="./src/assets/logo.svg"  alt="github_explorer"/>
 
